@@ -1,0 +1,22 @@
+
+    Crime Novel Analysis Report
+
+    Top Characters:
+     Character  Frequency
+     mergy         38
+   gilbert         25
+   marquis         18
+  clarisse         14
+sébastiani          9
+
+    Top Events:
+    Event  Frequency
+  say        447
+ have        307
+ take        264
+   go        258
+   do        230
+
+    Basic Model Prediction (for demonstration purposes):
+    Predicted plot element category: 1
+    
